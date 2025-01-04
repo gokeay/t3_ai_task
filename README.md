@@ -38,8 +38,8 @@ Bu projenin amacı, internetten bağımsız olarak lokal ortamda **JavaScript** 
     ```
 
 4. Modeller, sırasıyla aşağıdaki dosyalardan çalıştırılabilir:
-   - **Model 1:** `main_2.py`
-   - **Model 2:** `main_3.py`
+   - **Model 1:** `main.py`
+   - **Model 2:** `main_2.py`
 
 ## Notlar
 1. Modellerin performansını karşılaştırmak için örnek görevler üzerinde testler yapılmıştır.
