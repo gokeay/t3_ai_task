@@ -1,7 +1,7 @@
 # T3 AI Projesi - 2024
 
 ## Projenin Amacı
-Bu projenin amacı, internetten bağımsız olarak lokal ortamda **JavaScript** kodlarını analiz edebilen ve metin girdisiyle kod üretebilen **CodeT5** tabanlı bir **LLM** modeli geliştirmektir. Proje kapsamında, iki farklı modelin kurulumu, çalıştırılması ve değerlendirilmesi gerçekleştirilmiştir. Modeller, temel görevleri yerine getirebilmekte olup performans açısından birbirleriyle karşılaştırılmıştır. Daha iyi sonuçlar için **fine-tuning** yapılması önerilmektedir.
+Bu projenin amacı, **JavaScript** kodlarını analiz edebilen ve metin girdisiyle kod üretebilen **CodeT5** tabanlı bir **LLM** modeli geliştirmektir. Proje kapsamında, iki farklı modelin kurulumu, çalıştırılması ve değerlendirilmesi gerçekleştirilmiştir. Modeller, temel görevleri yerine getirebilmekte olup performans açısından birbirleriyle karşılaştırılmıştır. Daha iyi sonuçlar için **fine-tuning** yapılması önerilmektedir.
 
 ## Projede Kullanılan Modeller
 ### Model 1: `Salesforce/codet5-base-multi-sum`
